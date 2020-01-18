@@ -1,0 +1,38 @@
+.FormStyle {
+  width: 95%;
+  padding: 25px;
+  border: 1px dotted rgba(68, 64, 82, 0.37);
+}
+
+.ButtonStyle {
+  background-color: #4c77af;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 250px;
+}
+
+.ButtonStyle2 {
+  background-color: #4caf86;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  margin-top: 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+input {
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
+
+span {
+  margin-right: 10px;
+}

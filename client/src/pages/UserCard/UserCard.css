@@ -1,0 +1,22 @@
+.CardStyle {
+  text-align: center;
+  padding: 10px;
+  border: #ccc 1px dotted;
+  margin: 10px 0;
+}
+
+.ImgStyle {
+  width: 60px;
+}
+
+.ProfileButtonStyle {
+  background-color: #6fbee2;
+  border: none;
+  color: black;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+}
